@@ -1,6 +1,4 @@
 # PlantShield : GLCM and KNN Fusion in CNN for Robust Plant Disease Detection 
-### Education: BE in Computer Science (Honors) specialized in AIML
-### University: Chandigarh University, Punjab
 ## Abstract : 
 Plant diseases are a critical problem in modern agriculture, responsible for significant productivity losses of crops
 and economic damages. This paper describes the PlantShield 
@@ -20,20 +18,31 @@ Evaluation for the accuracy, recall, precision, and F1-score shows
 that the proposed solution by PlantShield is robust and reliable in 
 early plant disease detection, promising its applic
 
+## The PlantVillage Dataset
 
-## Skills & Interests:
-* Proficient in AIML technologies and programming languages like Python, R, and Java
-* Strong foundation in data analysis, machine learning algorithms, and neural networks
-* Creative problem-solving abilities coupled with a keen interest in exploring emerging technologies
-* Passionate about leveraging technology for social good and innovation
-* Always eager to learn and adapt to new tools and methodologies
+We use a publicly available and quite famous, the PlantVillage Dataset. The dataset was published by crowdAI during the ["PlantVillage Disease Classification Challenge"](https://www.crowdai.org/challenges/plantvillage-disease-classification-challenge). 
 
-I am currently seeking opportunities to apply my knowledge and skills in a professional setting. I am open to exploring diverse roles and projects that align with my educational background and interests. Please feel free to reach out if you have any questions or potential opportunities. I am excited about the prospect of contributing to meaningful projects and making a difference.
+The dataset consists of about **54,305 images** of plant leaves collected under controlled environmental conditions. The plant images span the following **14 species**:
 
-# contact-
+> **Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach, Bell Pepper, Potato, Raspberry, Soybean, Squash, Strawberry, and Tomato.**
 
-* Mobile No- +91 8077122635
+The dataset contains a total of **38 classes** of plant disease and **1** class of background images listed below:
+|                     |                      |                        |                          | 
+| :---:               |    :----:            |          :---:         |         :---:            |  
+| Apple Scab          | Apple Black Rot      | Apple Cedar Rust       | Apple Healthy            |
+| Blueberry Healthy   | Cherry Healthy       | Cherry Powdery Mildew  | Corn Northern Leaf Blight|
+|Corn Gray Leaf Spot  |Corn Common Rust      |Corn healthy            | Grape Black Rot          |     
+|Grape Black Measles  | Grape Leaf Blight    | Grape Healthy          | Bell Pepper Healthy      |
+| Orange Huanglongbing|Peach Bacterial Spot  | Peach Healthy          |Bell Pepper Bacterial Spot|
+| Potato Early Blight | Potato Healthy       | Potato Late Blight     |Raspberry Healthy         |
+| Soybean Healthy     | Squash Powdery Mildew| Strawberry Healthy     | Strawberry Leaf Scorch   |
+|Tomato Bacterial Spot| Tomato Early Blight  | Tomato Late Blight     |Tomato Leaf Mold          |
+|Tomato Septoria Leaf Spot| Tomato Two Spotted Spider Mite | Tomato Target Spot |Tomato Mosaic Virus |
+|Tomato Yellow Leaf Curl Virus | Tomato Healthy      |    |    |
+
+# Authors :
+* Tarushi Sandeep Gupta
 * Email id- tarushigupta03@gmail.com
-* Github- https://github.com/Taru1506
-* LinkedIn- www.linkedin.com/in/tarushisandeepgupta
-* Portfolio Link- https://github.com/Taru1506/PORTFOLIO
+
+* Shivani
+* Email id- shivanisaini03@gmail.com
