@@ -45,4 +45,4 @@ The dataset contains a total of **38 classes** of plant disease and **1** class 
 * Email id- tarushigupta03@gmail.com
 
 * Shivani
-* Email id- shivanisaini03@gmail.com
+* Email id- shivanisaini2173@gmail.com
